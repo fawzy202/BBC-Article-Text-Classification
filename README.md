@@ -19,5 +19,6 @@ This project focuses on classifying BBC news articles into one of five predefine
 
 **Format:**
 
-  Directory-based: Articles are stored as .txt files within category folders.
-  Preprocessed CSV: Includes text content and respective labels.
+     Directory-based: Articles are stored as .txt files within category folders.
+  
+     Preprocessed CSV: Includes text content and respective labels.
