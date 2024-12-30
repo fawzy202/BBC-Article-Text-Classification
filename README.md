@@ -4,6 +4,7 @@ This project focuses on classifying BBC news articles into one of five predefine
 
 ## **Dataset**
 **Source:** The dataset contains 2,225 articles from the BBC's archives.
+
 **Categories:**
 **Business:** Articles about finance, markets, and the economy.
 **Entertainment:** News on movies, music, and celebrity culture.
